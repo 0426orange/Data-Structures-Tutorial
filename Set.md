@@ -162,4 +162,8 @@ Difference of SetA and SetB:
 Example Problem: Find the Intersection of Two Arrays
 Write a program that finds the common elements (intersection) between two arrays.
 
-Solution
+[Solution](solution2.cs)
+
+
+
+[Back to Welcome Page](welcome.md)
