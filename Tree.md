@@ -253,5 +253,6 @@ Practice Problem
 Write a program to find the height of a binary tree.
 Implement a function to delete a node in a Binary Search Tree.
 
-Solution
+[Solution](solution3.cs)
 
+[Back to Welcome Page](welcome.md)
