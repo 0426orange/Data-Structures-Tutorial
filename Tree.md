@@ -222,7 +222,9 @@ If they are equal, the value is found.
 If the target is smaller, move to the left subtree.
 If the target is larger, move to the right subtree.
 Repeat until the value is found or the subtree is empty.
+
 Code:
+
 ```csharp
 public bool Search(TreeNode root, int key)
 {
