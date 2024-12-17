@@ -107,7 +107,8 @@ Output: "programming love I"
 
 Hint: Push each word onto the stack and pop them back out in reverse order.
 
-solution
+[Solution](solution.cs)
+
 
 This tutorial covered:
 
@@ -116,3 +117,5 @@ Real-life examples of stacks.
 Efficiency of operations.
 Example problems and practice scenarios.
 Now you should understand how to use stacks effectively! Try solving the practice problem on your own before looking at the solution.
+
+[Back to Welcome Page](welcome.md)
