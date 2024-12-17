@@ -71,7 +71,7 @@ class Program
     }
 }
 
-
+---
 
 Output:
 Last change: Variable  
