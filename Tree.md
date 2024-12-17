@@ -252,17 +252,6 @@ How a BST can be used to store and access data efficiently.
 Practice Problem
 Write a program to find the height of a binary tree.
 Implement a function to delete a node in a Binary Search Tree.
-```csharp
-public int FindHeight(TreeNode node)
-{
-    if (node == null)
-        return -1; // Base case: empty tree has a height of -1
 
-    // Recursively find the height of left and right subtrees
-    int leftHeight = FindHeight(node.Left);
-    int rightHeight = FindHeight(node.Right);
+Solution
 
-    // Height of the tree = max of left or right subtree + 1
-    return Math.Max(leftHeight, rightHeight) + 1;
-}
-```
