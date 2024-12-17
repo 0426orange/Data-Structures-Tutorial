@@ -107,7 +107,7 @@ Output: "programming love I"
 
 Hint: Push each word onto the stack and pop them back out in reverse order.
 
-[Solution](solution.cs)
+[Solution](solution1.cs)
 
 
 This tutorial covered:
